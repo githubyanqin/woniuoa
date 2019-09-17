@@ -17,7 +17,5 @@ public class Student {
 	private String name;
 	private List<Object> lists;
 	private Map<String,Object> maps;
-	private School school;
-	private int hehehe;
 	private int ii;
 }
