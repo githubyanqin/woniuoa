@@ -1,0 +1,23 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /youweb
+    
+student:
+  id: 1
+  name: zs
+  lists:
+    -a
+    -b
+    -c
+  #lists: [a,b,c,d,e]
+  map:
+    a: aaa
+    b: bbb
+    c: ccc
+  
+  school:
+    id: 2
+    name: school0002
+  
+  
