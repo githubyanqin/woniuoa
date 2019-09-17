@@ -19,5 +19,5 @@ public class Student {
 	private Map<String,Object> maps;
 	private School school;
 	private int hehehe;
-	private int 888;
+	private int ii;
 }
